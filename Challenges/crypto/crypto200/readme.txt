@@ -1,0 +1,1 @@
+﻿openssl -encrypt -in p -inkey pk -pubin -out c
